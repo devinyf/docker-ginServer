@@ -1,0 +1,9 @@
+version: "3.7"
+services:
+  gin_server:
+    restart: always
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/app
