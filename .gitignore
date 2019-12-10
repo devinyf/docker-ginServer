@@ -1,0 +1,14 @@
+*.txt
+.vscode/
+.idea/
+migrations/
+*.pyc
+*.toc
+*.seg
+whoosh_index/
+*.pem
+node_modules/
+.tmp
+.sass-cache
+*.mp3
+*.mp4
